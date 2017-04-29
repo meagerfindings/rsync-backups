@@ -1,0 +1,17 @@
+.*
+AndroidStudioProjects
+Applications
+Books
+Creative Cloud Files/
+Documents/qmk_firmware/
+Documents/Typing/
+Dropbox
+dwhelper
+Google Drive/
+Library
+Music/iTunes/Album Artwork/
+Pictures/Lightroom/Lightroom Catalog Previews.lrdata
+Pictures/Lightroom/Lightroom Catalog Smart Previews.lrdata
+Pictures/Lightroom/Lightroom Settings/Plugins/
+Public
+VirtualBox VMs/

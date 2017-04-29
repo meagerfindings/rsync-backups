@@ -1,0 +1,12 @@
+.*
+Applications
+Books
+Creative Cloud Files/
+Downloads
+Google Drive/
+Library
+Movies
+Music
+Pictures/GIFs/
+Public
+VirtualBox VMs/

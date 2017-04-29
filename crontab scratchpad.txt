@@ -1,0 +1,6 @@
+MAILTO=""
+0 22 * * 1-6 /Users/matgreten/Documents/Rsync/TM-Kapost.command >> /Users/matgreten/Documents/Rsync/TM-Kapost.log 2>&1
+0 23 * * 1-6 /Users/matgreten/Documents/Rsync/TM-TK421.command >> /Users/matgreten/Documents/Rsync/TM-TK421.log 2>&1
+0 22 * * 0 /Users/matgreten/Documents/Rsync/TM-Kapost-Full.command >> /Users/matgreten/Documents/Rsync/TM-Kapost-Full.log 2>&1
+0 23 * * 0 /Users/matgreten/Documents/Rsync/TM-TK421-Full.command >> /Users/matgreten/Documents/Rsync/TM-TK421-Full.log 2>&1
+55 23 * * * /Users/matgreten/Documents/Rsync/Media-Backup.command >> /Users/matgreten/Documents/Rsync/Media-Backup.log 2>&1
